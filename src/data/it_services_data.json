@@ -8,7 +8,7 @@
       "price": 499,
       "consultant": "Abhay Pandey",
       "isFeatured": true,
-      "image": "/images/services/seo.jpg"
+      "image": "https://unsplash.com/photos/a-black-button-with-a-magnifying-glass-on-it-Jrr7NLH8jrs"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 899,
       "consultant": "Raj Mehta",
       "isFeatured": true,
-      "image": "/images/services/web-development.jpg"
+      "image": "https://unsplash.com/photos/black-flat-screen-computer-monitor-eYpcLDXHVb0"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 699,
       "consultant": "Sneha Kapoor",
       "isFeatured": false,
-      "image": "/images/services/ui-ux.jpg"
+      "image": "https://unsplash.com/photos/person-writing-on-white-paper-qC2n6RQU4Vw"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 299,
       "consultant": "Aman Sharma",
       "isFeatured": false,
-      "image": "/images/services/seo-audit.jpg"
+      "image": "https://unsplash.com/photos/black-audio-technica-headphones-TTYSjns_Pws"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 1099,
       "consultant": "Nikita Verma",
       "isFeatured": true,
-      "image": "/images/services/mobile-app.jpg"
+      "image": "https://unsplash.com/photos/space-gray-iphone-x-9e9PD9blAto"
     },
     {
       "id": 6,
@@ -68,7 +68,7 @@
       "price": 449,
       "consultant": "Priya Singh",
       "isFeatured": false,
-      "image": "/images/services/content-marketing.jpg"
+      "image": "https://unsplash.com/photos/a-bunch-of-different-items-that-are-on-a-table-8hIs5ThidzM"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 1349,
       "consultant": "Aryan Sharma",
       "isFeatured": false,
-      "image": "/images/services/it-consulting.jpg"
+      "image": "https://unsplash.com/photos/a-man-sitting-in-front-of-a-computer-on-a-desk-YoNWSk5NnUE"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 249,
       "consultant": "Kavya Joshi",
       "isFeatured": false,
-      "image": "/images/services/maintenance.jpg"
+      "image": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-_0GRD6fL3CM"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 349,
       "consultant": "Ravi Desai",
       "isFeatured": true,
-      "image": "/images/services/performance.jpg"
+      "image": "https://unsplash.com/photos/a-phone-with-a-graph-on-it-and-a-dollar-sign-next-to-it-CGPz19bMF2Q"
     }
   ]
 }
