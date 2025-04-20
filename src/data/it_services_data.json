@@ -1,0 +1,104 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Search Engine Optimization (SEO)",
+      "slug": "search-engine-optimization",
+      "description": "Improve your website’s visibility on search engines and drive organic traffic with our SEO solutions.",
+      "price": 499,
+      "consultant": "Abhay Pandey",
+      "isFeatured": true,
+      "image": "/images/services/seo.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Custom Web Development",
+      "slug": "custom-web-development",
+      "description": "Tailor-made web applications using modern tech stacks, optimized for performance and scalability.",
+      "price": 899,
+      "consultant": "Raj Mehta",
+      "isFeatured": true,
+      "image": "/images/services/web-development.jpg"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "slug": "ui-ux-design",
+      "description": "Intuitive and engaging designs to improve user experience and boost product usability.",
+      "price": 699,
+      "consultant": "Sneha Kapoor",
+      "isFeatured": false,
+      "image": "/images/services/ui-ux.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Technical SEO Audit",
+      "slug": "technical-seo-audit",
+      "description": "In-depth analysis of your website’s technical SEO setup to resolve indexing and performance issues.",
+      "price": 299,
+      "consultant": "Aman Sharma",
+      "isFeatured": false,
+      "image": "/images/services/seo-audit.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "slug": "mobile-app-development",
+      "description": "Cross-platform mobile apps built for performance, security, and seamless user experience.",
+      "price": 1099,
+      "consultant": "Nikita Verma",
+      "isFeatured": true,
+      "image": "/images/services/mobile-app.jpg"
+    },
+    {
+      "id": 6,
+      "title": "E-Commerce Development",
+      "slug": "ecommerce-development",
+      "description": "Launch and scale your online store with feature-rich, secure e-commerce solutions.",
+      "price": 1199,
+      "consultant": "Manish Rao",
+      "isFeatured": true,
+      "image": "/images/services/ecommerce.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Content Marketing Strategy",
+      "slug": "content-marketing-strategy",
+      "description": "Boost your brand’s visibility and conversions through targeted content strategies.",
+      "price": 449,
+      "consultant": "Priya Singh",
+      "isFeatured": false,
+      "image": "/images/services/content-marketing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "IT Infrastructure Consulting",
+      "slug": "it-infrastructure-consulting",
+      "description": "Enhance efficiency and reduce downtime with expert infrastructure consulting services.",
+      "price": 1349,
+      "consultant": "Aryan Sharma",
+      "isFeatured": false,
+      "image": "/images/services/it-consulting.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Website Maintenance & Support",
+      "slug": "website-maintenance-support",
+      "description": "Keep your website secure, updated, and running smoothly with our maintenance packages.",
+      "price": 249,
+      "consultant": "Kavya Joshi",
+      "isFeatured": false,
+      "image": "/images/services/maintenance.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Performance Optimization",
+      "slug": "performance-optimization",
+      "description": "Improve loading speed, reduce bounce rate, and enhance user engagement across your website.",
+      "price": 349,
+      "consultant": "Ravi Desai",
+      "isFeatured": true,
+      "image": "/images/services/performance.jpg"
+    }
+  ]
+}
